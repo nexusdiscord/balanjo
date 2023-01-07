@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Balanjo",
+    "description": "",
+    "home_page_url": "https://nexusdiscord.github.io/balanjo",
+    "feed_url": "https://nexusdiscord.github.io/balanjo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "apis"
+    },
+    "items": [
+        {
+            "id": "https://nexusdiscord.github.io/balanjo/hello-world.html",
+            "url": "https://nexusdiscord.github.io/balanjo/hello-world.html",
+            "title": "Hello world!",
+            "summary": "lorem ipsum dolor sit amet",
+            "content_html": "<p>lorem ipsum dolor sit amet</p>",
+            "author": {
+                "name": "apis"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-07T20:40:33+07:00",
+            "date_modified": "2023-01-07T20:40:33+07:00"
+        }
+    ]
+}

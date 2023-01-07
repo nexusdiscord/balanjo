@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Balanjo</title>
+    <link href="https://nexusdiscord.github.io/balanjo/feed.xml" rel="self" />
+    <link href="https://nexusdiscord.github.io/balanjo" />
+    <updated>2023-01-07T20:40:33+07:00</updated>
+    <author>
+        <name>apis</name>
+    </author>
+    <id>https://nexusdiscord.github.io/balanjo</id>
+
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>apis</name>
+        </author>
+        <link href="https://nexusdiscord.github.io/balanjo/hello-world.html"/>
+        <id>https://nexusdiscord.github.io/balanjo/hello-world.html</id>
+
+        <updated>2023-01-07T20:40:33+07:00</updated>
+            <summary>
+                <![CDATA[
+                    lorem ipsum dolor sit amet
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lorem ipsum dolor sit amet</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

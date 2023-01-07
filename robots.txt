@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nexusdiscord.github.io/balanjo/sitemap.xml
